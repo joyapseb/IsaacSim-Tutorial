@@ -104,7 +104,7 @@ Do you accept the EULA? (Yes/No): Yes
 
 Your terminal should look similar
 
-<img width="600" height="400" alt="isaac2" src="https://github.com/user-attachments/assets/4272abb0-4f04-49aa-879b-a2e0d64018c6" />
+<img width="800" height="600" alt="isaac2" src="https://github.com/user-attachments/assets/4272abb0-4f04-49aa-879b-a2e0d64018c6" />
 
 You should be able to see the following window
 <img width="1200" height="500" alt="isaac3" src="https://github.com/user-attachments/assets/c9233fb0-f1b3-433d-ac58-bc7bc9d00966" />
