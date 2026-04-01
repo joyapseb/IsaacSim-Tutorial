@@ -59,6 +59,24 @@ Simulator with a black window.
 
 If you see this, then the installation was successful! 🎉
 
+##Train a robot!
+You can now use Isaac Lab to train a robot through Reinforcement Learning! 
+
+Execute the following command to quickly train an ant to walk! We recommend adding --headless for faster training.
+
+*Robot dog (Anymal)
+```
+./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/train.py --task=Isaac-Velocity-Rough-Anymal-C-v0 --headless
+```
+
+
+#Relevant Links
+*[Avaliable Environments](https://isaac-sim.github.io/IsaacLab/main/source/overview/environments.html): From classics (Isaac-Cart-Double-Pendulum-Direct-v0),walking (Isaac-Velocity-Rough-H1-v0), manipulation (Isaac-Lift-Cube-Franka-v0) to Contact-Rich Tasks (Isaac-Factory-PegInsert-Direct-v0) and more
+
+*[RL Scripts](https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/rl_existing_scripts.html): Commands to run Available Envs with *rl_games*, *rsl_rl*, *sb3*, *skrl*
+
+*[General Tutorials](https://isaac-sim.github.io/IsaacLab/main/source/tutorials/index.html): Creating Environments, Interaction with objects, using controllers (Task-space, Operational Space), etc.
+
 
 
 
