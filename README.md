@@ -1,4 +1,4 @@
-# IsaacSim-Tutorial
+# **IsaacSim-Tutorial**
 
 Basic Tutorial to Install IsaacSim | Examples of use
 
@@ -43,7 +43,7 @@ Creating a dedicated Python environment is strongly recommended. It helps:
 
 **Please choose either venv or Conda**
 
-### venv Environment
+#### venv Environment
 ```
 # create a virtual environment named env_isaaclab with python3.11
 python3.11 -m venv env_isaaclab
@@ -51,7 +51,7 @@ python3.11 -m venv env_isaaclab
 source env_isaaclab/bin/activate
 ```
 
-### Conda Environment
+#### Conda Environment
 To install conda, please follow the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). You can create the Isaac Lab environment using the following commands.
 
 We recommend using [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main), since it is light-weight and resource-efficient environment management system.
