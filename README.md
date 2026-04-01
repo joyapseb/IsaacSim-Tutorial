@@ -17,7 +17,7 @@ Use the latest NVIDIA production branch driver.
 On Linux, version 580.65.06 or later is recommended, especially when upgrading to Ubuntu 22.04.5 with kernel 6.8.0-48-generic or newer.
 
 
-##Installation
+## Installation
 In this tutorial we will follow the Local Installation using *pip install*. For more other installation methods, follow ([Installation](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html))
 
 | Method  | Isaac Sim | Isaac Lab | Best for | Difficulty |
@@ -28,9 +28,9 @@ In this tutorial we will follow the Local Installation using *pip install*. For 
 | Pip Only  | 📦 pip install | 📦 pip install | External extensions only (no training/examples) | Special case |
 | Docker  | 🐳 Docker | 💾 source (git) | Docker users | Advanced |
 
-##Installation using Isaac Sim Pip Package
+## Installation using Isaac Sim Pip Package
 
-###Preparing a Python Environment
+### Preparing a Python Environment
 Creating a dedicated Python environment is strongly recommended. It helps:
 
 * Avoid conflicts with system Python or other projects installed on your machine.
@@ -39,7 +39,7 @@ Creating a dedicated Python environment is strongly recommended. It helps:
 * Simplify reproducibility — the environment contains only the packages needed for the current project, making it easier to share setups with colleagues or run     on different machines.
 
 
-###venv Environment
+### venv Environment
 ```
 # create a virtual environment named env_isaaclab with python3.11
 python3.11 -m venv env_isaaclab
@@ -47,7 +47,7 @@ python3.11 -m venv env_isaaclab
 source env_isaaclab/bin/activate
 ```
 
-###Conda Environment
+### Conda Environment
 To install conda, please follow the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). You can create the Isaac Lab environment using the following commands.
 
 We recommend using [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main), since it is light-weight and resource-efficient environment management system.
@@ -57,38 +57,38 @@ conda create -n env_isaaclab python=3.11
 conda activate env_isaaclab
 ```
 
-###Upgrading pip
+### Upgrading pip
 ```
 pip install --upgrade pip
 ```
 
 
-###Installing dependencies
+### Installing dependencies
 * Install Isaac Sim pip packages:
 ```
 pip install "isaacsim[all,extscache]==5.1.0" --extra-index-url https://pypi.nvidia.com
 ```
 
-*##Install a CUDA-enabled PyTorch build that matches your system architecture (Linux (x86_64)):
+* Install a CUDA-enabled PyTorch build that matches your system architecture (Linux (x86_64)):
 ```
 pip install -U torch==2.7.0 torchvision==0.22.0 --index-url https://download.pytorch.org/whl/cu128
 ```
 
-##Verifying the Isaac Sim installation
-*Make sure that your virtual environment is activated (if applicable)
+## Verifying the Isaac Sim installation
+* Make sure that your virtual environment is activated (if applicable)
 * Check that the simulator runs as expected:
 ```
 # note: you can pass the argument "--help" to see all arguments possible.
 isaacsim
 ```
 
-*It’s also possible to run with a specific experience file, run:
+* It’s also possible to run with a specific experience file, run:
 ```
 # experience files can be absolute path, or relative path searched in isaacsim/apps or omni/apps
 isaacsim isaacsim.exp.full.kit
 ```
 
-###EULA
+### EULA
 ```
 By installing or using Isaac Sim, I agree to the terms of NVIDIA OMNIVERSE LICENSE AGREEMENT (EULA)
 in https://docs.isaacsim.omniverse.nvidia.com/latest/common/NVIDIA_Omniverse_License_Agreement.html
@@ -96,7 +96,7 @@ in https://docs.isaacsim.omniverse.nvidia.com/latest/common/NVIDIA_Omniverse_Lic
 Do you accept the EULA? (Yes/No): Yes
 ```
 
-#Citation
+# Citation
 
 ```
 @article{mittal2025isaaclab,
