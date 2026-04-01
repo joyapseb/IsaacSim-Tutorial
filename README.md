@@ -38,6 +38,7 @@ Creating a dedicated Python environment is strongly recommended. It helps:
 * Easily manage multiple environments for setups with different versions of dependencies.
 * Simplify reproducibility — the environment contains only the packages needed for the current project, making it easier to share setups with colleagues or run     on different machines.
 
+**Please choose either venv or Conda**
 
 ### venv Environment
 ```
