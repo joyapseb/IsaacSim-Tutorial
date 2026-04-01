@@ -1,4 +1,4 @@
-#IsaacSim-Tutorial
+# IsaacSim-Tutorial
 
 Basic Tutorial to Install IsaacSim | Examples of use
 
@@ -6,7 +6,7 @@ You can find the official documentation in the following link: [Isaac Sim](https
 
 In this tutorial we will follow the installation recommended to use along with [Isaac Lab](https://isaac-sim.github.io/IsaacLab/main/index.html)
 
-###Notes
+### Notes
 Isaac Sim is compatible with Windows and Ubuntu 22.04 (recommended) & 24.04.
 
 Isaac Sim is built against a specific Python version, making it essential to use the same Python version when installing Isaac Lab. The required Python version is as follows:
