@@ -100,6 +100,16 @@ in https://docs.isaacsim.omniverse.nvidia.com/latest/common/NVIDIA_Omniverse_Lic
 Do you accept the EULA? (Yes/No): Yes
 ```
 
+# Verification & Tutorial
+
+Your terminal should look similar
+
+<img width="671" height="102" alt="isaac1" src="https://github.com/user-attachments/assets/6473a69d-370a-4612-98e4-271b7e2ce2e2" />
+<img width="1206" height="834" alt="isaac2" src="https://github.com/user-attachments/assets/4272abb0-4f04-49aa-879b-a2e0d64018c6" />
+
+You should be able to see the following window
+<img width="1610" height="995" alt="isaac3" src="https://github.com/user-attachments/assets/c9233fb0-f1b3-433d-ac58-bc7bc9d00966" />
+
 # Citation
 
 ```
