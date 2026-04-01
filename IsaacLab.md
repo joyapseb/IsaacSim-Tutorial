@@ -68,6 +68,12 @@ Execute the following command to quickly train an ant to walk! We recommend addi
 ```
 ./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/train.py --task=Isaac-Velocity-Rough-Anymal-C-v0 --headless
 ```
+To visualize (32 envs)
+```
+./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/train.py --task=Isaac-Velocity-Rough-Anymal-C-v0 --num_envs 32
+```
+<img width="1610" height="995" alt="Anymal" src="https://github.com/user-attachments/assets/9f5b78e4-c256-46fd-bf79-d56e1e8dc9f1" />
+
 
 
 # Relevant Links
