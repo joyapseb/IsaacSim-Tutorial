@@ -70,7 +70,7 @@ Execute the following command to quickly train an ant to walk! We recommend addi
 ```
 
 
-#Relevant Links
+# Relevant Links
 *[Avaliable Environments](https://isaac-sim.github.io/IsaacLab/main/source/overview/environments.html): From classics (Isaac-Cart-Double-Pendulum-Direct-v0),walking (Isaac-Velocity-Rough-H1-v0), manipulation (Isaac-Lift-Cube-Franka-v0) to Contact-Rich Tasks (Isaac-Factory-PegInsert-Direct-v0) and more
 
 *[RL Scripts](https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/rl_existing_scripts.html): Commands to run Available Envs with *rl_games*, *rsl_rl*, *sb3*, *skrl*
