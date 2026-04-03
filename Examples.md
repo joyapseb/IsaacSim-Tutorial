@@ -158,7 +158,6 @@ In this occasion, we will follow Tutorials 1-4
 * [Tutorial 3: Articulate a Basic Robot](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/robot_setup_tutorials/tutorial_gui_simple_robot.html)
 * [Tutorial 4: Add Camera and Sensors to a Robot](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/robot_setup_tutorials/tutorial_gui_camera_sensors.html)
 
-## Thank you for following the Tutorial
 
 # Important Links
 * [Tutorial Reference Tables](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/introduction/tutorial_list.html)
@@ -167,4 +166,5 @@ In this occasion, we will follow Tutorials 1-4
 * [IsaacLab](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/isaac_lab_tutorials/index.html)
 * [ROS2](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/ros2_tutorials/ros2_landing_page.html)
   
+## Thank you for following the Tutorial
 
