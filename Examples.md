@@ -1,4 +1,4 @@
-# Examples section
+<img width="1609" height="530" alt="image" src="https://github.com/user-attachments/assets/b0ab6e6c-fc52-4dd6-918b-2d22dd49c750" /># Examples section
 **Let's get familiar with the GUI using an example**
 
 Follow the following route: ***Window->Examples->Robotics Examples***
@@ -27,4 +27,13 @@ Depending on the selected example, select the appropriate options to run the sim
 (In Task Control -> Start)
    <img width="1609" height="530" alt="Run" src="https://github.com/user-attachments/assets/c50e8693-70cf-41c0-8f28-4b7c67b993b0" />
 
-[follow_vid.webm](https://github.com/user-attachments/assets/0a9d37d1-6f08-49e9-a33f-be10674943d5)
+[Follow_video.webm](https://github.com/user-attachments/assets/0a9d37d1-6f08-49e9-a33f-be10674943d5)
+
+As seen in the video, the example shows how to follow a target using Franka robot in Isaac Sim.
+
+### Access the code
+<img width="384" height="354" alt="source" src="https://github.com/user-attachments/assets/63ae7891-d8ad-4fe3-a9a1-603500667822" />
+
+To access the code, select the icon with the square and pencil -> Your default code editor will be opened.
+
+
