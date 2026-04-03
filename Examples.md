@@ -158,7 +158,7 @@ In this occasion, we will follow Tutorials 1-4
 * [Tutorial 3: Articulate a Basic Robot](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/robot_setup_tutorials/tutorial_gui_simple_robot.html)
 * [Tutorial 4: Add Camera and Sensors to a Robot](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/robot_setup_tutorials/tutorial_gui_camera_sensors.html)
 
-<img width="1223" height="674" alt="isim_4 5_base_ref_gui_camera_widget" src="https://github.com/user-attachments/assets/c8dd5bf4-570c-4232-a5cd-08943f6abbe4" />
+<img width="600" height="300" alt="isim_4 5_base_ref_gui_camera_widget" src="https://github.com/user-attachments/assets/c8dd5bf4-570c-4232-a5cd-08943f6abbe4" />
 
 
 # Important Links
