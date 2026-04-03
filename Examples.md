@@ -14,5 +14,15 @@ Please select an example of your interest and *Load the Scene*
 
 ## Example using *Manipulation -> Follow Target Task*
 
-<img width="1593" height="955" alt="target" src="https://github.com/user-attachments/assets/6432ab71-2018-46b4-803a-580ee8a00369" />
+<img width="1609" height="530" alt="target1" src="https://github.com/user-attachments/assets/81d8b23a-abd7-4d9f-bf09-f7b86805dcd7" />
 
+### Important sections
+* **Stage**: Shows all the objects in the Stage. In this case, the ones interacting are the TargetCube and Franka (Robot).
+* **Stage Lights**: Enables changing the lightning for visualization purposes.
+*  **Perspective** If a camera is enabled, it is possible to change the perspective
+*  **Left bar**: Change position & Orientation, Start & Stop simulation
+
+
+Depending on the selected example, select the appropriate options to run the simulation
+(In Task Control -> Start)
+   <img width="1609" height="530" alt="Run" src="https://github.com/user-attachments/assets/c50e8693-70cf-41c0-8f28-4b7c67b993b0" />
