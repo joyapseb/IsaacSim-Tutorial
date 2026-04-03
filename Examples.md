@@ -1,9 +1,8 @@
 # Examples section
 
-<img width="1609" height="530" alt="image" src="https://github.com/user-attachments/assets/b0ab6e6c-fc52-4dd6-918b-2d22dd49c750" />
 **Let's get familiar with the GUI using an example**
 
-Follow the following route: ***Window->Examples->Robotics Examples***
+Follow the route: ***Window->Examples->Robotics Examples***
 
 <img width="1080" height="484" alt="route" src="https://github.com/user-attachments/assets/004c7ff5-3abd-4a7a-95e6-8ea8b096867f" />
 
