@@ -26,3 +26,5 @@ Please select an example of your interest and *Load the Scene*
 Depending on the selected example, select the appropriate options to run the simulation
 (In Task Control -> Start)
    <img width="1609" height="530" alt="Run" src="https://github.com/user-attachments/assets/c50e8693-70cf-41c0-8f28-4b7c67b993b0" />
+
+[follow_vid.webm](https://github.com/user-attachments/assets/0a9d37d1-6f08-49e9-a33f-be10674943d5)
