@@ -41,9 +41,10 @@ Creating a dedicated Python environment is strongly recommended. It helps:
 * Easily manage multiple environments for setups with different versions of dependencies.
 * Simplify reproducibility — the environment contains only the packages needed for the current project, making it easier to share setups with colleagues or run     on different machines.
 
-**Please choose either venv or Conda**
+**Please choose either venv (simple) or Conda**
 
 #### venv Environment
+(In case of errors, follow the commands in terminal)
 ```
 # create a virtual environment named env_isaaclab with python3.11
 python3.11 -m venv env_isaaclab
